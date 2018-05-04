@@ -3,12 +3,12 @@ var customerName = "bob";
 
 function upperCaseCustomerName() {
  customerName.toUpperCase();
-  return customerName
+  return customerName;
 }
 
 function setBestCustomer() {
-  customerName = "not bob"
-  return customerName
+  customerName = "not bob";
+  return customerName;
 }
 
 function overwriteBestCustomern() {
