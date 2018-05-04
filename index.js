@@ -9,7 +9,7 @@ function setBestCustomer() {
   return bestCustomer = "not bob";
 }
 
-function overwriteBestCustomern() {
+function overwriteBestCustomer() {
   return bestCustomer = "maybe bob";
 }
 
